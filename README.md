@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Marlon 👋
 
 <!--
 **marlon-nieves/marlon-nieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋 👩🏾‍💻 I'm a Colombian Quality Assurance Analyst, I’m a QA Engineer with 1+ of experience 🤟🏿, Microsoft Technologies and Related Frameworks
