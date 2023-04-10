@@ -18,11 +18,6 @@ Here are some ideas to get you started:
  I am a Computer Engineer👩🏾‍💻, Colombian Quality Assurance Analyst, with 1+ of experience 🤟🏿, in test automation, with Java, JavaScript applying TDD with design patterns such as Screenplay, playwright, POM using technologies such as Gherkin, Cucumber, WebDriver, Selenium, Git and Postman.
 
 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
