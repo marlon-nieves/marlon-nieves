@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">A passionate Quality Assurance Analyst from Colombia</h3>
- I am a Computer Engineer👩Colombian🏾‍💻, Quality Assurance Analyst, with 1+ of experience 🤟🏿, in test automation, with Java, JavaScript applying TDD, BDD with design patterns such as Screenplay, playwright, POM using technologies such as Gherkin, Cucumber, WebDriver, Selenium, Git and Postman.
+ I am a Computer Engineer👨‍💻 Colombian, Quality Assurance Analyst, with 1+ of experience 🤟🏿, in test automation, with Java, JavaScript applying TDD, BDD with design patterns such as Screenplay, playwright, POM using technologies such as Gherkin, Cucumber, WebDriver, Selenium, Git and Postman.
 
 
 <p align="left">
